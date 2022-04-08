@@ -12,6 +12,4 @@ parent_uid: 7d70ed88-1800-6902-1de5-3b7aa21c9465
 resourcetype: Other
 title: 03ampl_output.txt
 uid: ecc4adeb-3240-6ac4-6051-c0b565d3b629
-video_files:
-  video_thumbnail_file: null
 ---

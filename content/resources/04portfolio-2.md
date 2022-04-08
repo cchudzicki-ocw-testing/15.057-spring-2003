@@ -12,6 +12,4 @@ parent_uid: 7d70ed88-1800-6902-1de5-3b7aa21c9465
 resourcetype: Other
 title: 04portfolio.mod
 uid: 436875e6-acee-2dbe-33cc-fd714bc7bfdd
-video_files:
-  video_thumbnail_file: null
 ---

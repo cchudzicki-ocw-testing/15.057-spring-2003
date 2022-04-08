@@ -12,6 +12,4 @@ parent_uid: 7d70ed88-1800-6902-1de5-3b7aa21c9465
 resourcetype: Other
 title: 07shift_staffing.mod
 uid: 340e7f2f-51d7-54d0-1f69-33b320b82c73
-video_files:
-  video_thumbnail_file: null
 ---

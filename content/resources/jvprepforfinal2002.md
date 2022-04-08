@@ -8,11 +8,8 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c395471b-2707-dcbb-5013-64a7fff79710
 resourcetype: Document
 title: jvprepforfinal2002.pdf
 uid: 5ff97b25-0c38-ea60-4c1a-5f3e4d899015
-video_files:
-  video_thumbnail_file: null
-video_metadata:
-  youtube_id: null
 ---

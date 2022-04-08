@@ -8,11 +8,8 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c395471b-2707-dcbb-5013-64a7fff79710
 resourcetype: Document
 title: midterm2002practice.pdf
 uid: aad523ed-90c5-b3e3-50e5-efd31c5fc5d9
-video_files:
-  video_thumbnail_file: null
-video_metadata:
-  youtube_id: null
 ---

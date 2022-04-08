@@ -8,11 +8,8 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: c395471b-2707-dcbb-5013-64a7fff79710
 resourcetype: Document
 title: aylarecitation.pdf
 uid: 537771f5-17d1-1c1c-1c70-ebf6cea374bd
-video_files:
-  video_thumbnail_file: null
-video_metadata:
-  youtube_id: null
 ---
